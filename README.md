@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Alexandru Ciuca</h1>
 <h3 align="center">Passionate developper from Montreal, Canada</h3>
 
-- 🔭 I’m currently working on my **Multiplayer chess game**
+- 🔭 I’m currently working on **LiveSync**
 
-- 🌱 I’m currently learning **JavaFX, React and Node.js**
+- 🌱 I’m currently learning **FastAPI, React, DSA**
 
 - 📫 How to reach me **alexandru356.c@gmail.com**
 
