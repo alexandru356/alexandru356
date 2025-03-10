@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **FastAPI, React, DSA**
 
-- 📫 How to reach me **alexandru356.c@gmail.com**
+- 📫 How to reach me **a.ciuca@hotmail.com**
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
