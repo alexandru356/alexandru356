@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Alexandru Ciuca</h1>
 <h3 align="center">Passionate developper from Montreal, Canada</h3>
 
-- 🔭 I’m currently working on **LiveSync**
+- 🔭 I’m currently working on **Notivo**
 
-- 🌱 I’m currently learning **FastAPI, React, DSA**
+- 🌱 I’m currently learning **Golang, React, DSA**
 
 - 📫 How to reach me **a.ciuca@hotmail.com**
 
