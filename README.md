@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working on a personal SaaS
 
-- 🌱 I’m currently learning **Golang, React, DSA and Selenium**
+- 🌱 I’m currently learning **Spring Boot, React, DSA and Selenium**
 
 - 📫 How to reach me **a.ciuca@hotmail.com**
 
